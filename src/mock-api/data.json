@@ -1,0 +1,19 @@
+{
+  "smartphone": [
+    {
+      "nom": "Xiaomi Mi 11",
+      "marque": 8000,
+      "description": "Black",
+      "prix": "128£",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeo7zR3LjxvR0iuILmq3sunP5m5CKzCPuliw&s",
+      "ram": "4GB",
+      "rom": "128GB",
+      "ecran": "6.9px",
+      "couleurs": [
+        "Noir",
+        "Gris"
+      ],
+      "id": "eb5c"
+    }
+  ]
+}
