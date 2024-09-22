@@ -1,4 +1,4 @@
-export default function detailsmatphone() {
+export default function Detailsmatphone() {
   return (
     <div>detailsmatphone</div>
   )

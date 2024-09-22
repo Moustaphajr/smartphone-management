@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 export default function Listsmartphone() {
   const [smartphones, setSmartphone] = useState([]);
@@ -53,7 +54,7 @@ export default function Listsmartphone() {
               />
               <div>
                 <button>Details</button>
-                <button>Modifier</button>
+                <button><Link  to={`/edit-smartphone/${smartphone.id}`}>Modifier </Link></button>
                 <button onClick={() => handleDelete(smartphone.id)}>
                   Supprimer
                 </button>
