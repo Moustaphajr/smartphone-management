@@ -30,7 +30,7 @@ export default function Login() {
                 type="email"
                 className="form-control"
                 id="email"
-                placeholder="Enter your email"
+                placeholder="Enter votre email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
@@ -42,14 +42,14 @@ export default function Login() {
                 type="password"
                 className="form-control"
                 id="password"
-                placeholder="Enter your password"
+                placeholder="Entrez votre mot de passe"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
               />
             </div>
             <div className="d-flex justify-content-center">
-              <button type="submit" className="btn btn-primary">Login</button>
+              <button type="submit" className="btn btn-primary">Se connecter</button>
             </div>
           </form>
         </div>

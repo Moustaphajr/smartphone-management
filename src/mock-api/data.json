@@ -1,32 +1,46 @@
 {
   "smartphone": [
     {
+      "id": "20c0",
       "nom": "iphone 15",
       "marque": "Apple",
-      "description": "Black",
-      "prix": "128£",
+      "description": "test",
+      "prix": "123",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGpObnljPsbl4YJFvEtij7nZYzBUPSN3Uow&s",
-      "ram": "4GB",
-      "rom": "128GB",
-      "ecran": "6.9px",
+      "ram": "6",
+      "rom": "4",
+      "ecran": "12px",
       "couleurs": [
-        "Gris"
-      ],
-      "id": "eb5c"
+        "Rouge"
+      ]
     },
-     {
-      "nom": "iphone 16",
-      "marque": "Apple",
-      "description": "Black",
-      "prix": "128£",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGpObnljPsbl4YJFvEtij7nZYzBUPSN3Uow&s",
-      "ram": "4GB",
-      "rom": "128GB",
-      "ecran": "6.9px",
+    {
+      "nom": "LG velvet",
+      "marque": "LG",
+      "description": "test",
+      "prix": "123",
+      "photo": "https://cdn.mos.cms.futurecdn.net/DmvB5u8GmnLmeZiRf2TThS.jpg",
+      "ram": "4",
+      "rom": "4",
+      "ecran": "13px",
       "couleurs": [
         "Gris"
       ],
-      "id": "eb5d"
+      "id": "62ba"
+    },
+    {
+      "id": "ab9d",
+      "nom": "Samsung S21",
+      "marque": "Samsung",
+      "description": "téléphone vert neuf",
+      "prix": "2000",
+      "photo": "https://images.frandroid.com/wp-content/uploads/2024/01/samsung-galaxy-s24-ultra-6-scaled.jpg",
+      "ram": "4",
+      "rom": "4",
+      "ecran": "15px",
+      "couleurs": [
+        "Vert"
+      ]
     }
   ]
 }
